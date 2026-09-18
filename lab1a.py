@@ -13,7 +13,9 @@ newsriting=(message+"Python is future")
 print(newsriting)
 x=10
 print(type(x))
-
+"""This is a multi line comment"""
+x="hello"
+print(type(x))
 
 # TO DO 2: Checking the type of a varibale
 # Use the builtin type() function and print the type of this variable.
